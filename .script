@@ -1,0 +1,3 @@
+config load ".\matlab test ecu.ioc"
+config saveext ".\matlab test ecu.ioc"
+exit wait
