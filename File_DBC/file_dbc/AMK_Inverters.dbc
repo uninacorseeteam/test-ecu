@@ -1,0 +1,207 @@
+VERSION ""
+
+
+BS_:
+
+BU_:
+
+
+BO_ 643 AMK_ActualValues1_INV1: 8 Vector__XXX
+ SG_ AMK_MagnetizingCurrent : 48|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_TorqueCurrent : 32|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_ActualVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bDerating : 15|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 14|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitInverterOn : 13|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 12|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitDcOn : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bWarn : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bError : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bSystemReady : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 644 AMK_ActualValues1_INV2: 8 Vector__XXX
+ SG_ AMK_MagnetizingCurrent : 48|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_TorqueCurrent : 32|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_ActualVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bDerating : 15|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 14|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitInverterOn : 13|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 12|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitDcOn : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bWarn : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bError : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bSystemReady : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 647 AMK_ActualValues1_INV3: 8 Vector__XXX
+ SG_ AMK_MagnetizingCurrent : 48|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_TorqueCurrent : 32|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_ActualVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bDerating : 15|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 14|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitInverterOn : 13|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 12|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitDcOn : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bWarn : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bError : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bSystemReady : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 648 AMK_ActualValues1_INV4: 8 Vector__XXX
+ SG_ AMK_MagnetizingCurrent : 48|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_TorqueCurrent : 32|16@1- (1,0) [-32768|32767] "" Vector__XXX
+ SG_ AMK_ActualVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bDerating : 15|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 14|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitInverterOn : 13|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 12|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bQuitDcOn : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bWarn : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bError : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bSystemReady : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 645 AMK_ActualValues2_INV1: 8 Vector__XXX
+ SG_ AMK_TempIGBT : 48|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_ErrorInfo : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ AMK_TempInverter : 16|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_TempMotor : 0|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+
+BO_ 646 AMK_ActualValues2_INV2: 8 Vector__XXX
+ SG_ AMK_TempIGBT : 48|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_ErrorInfo : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ AMK_TempInverter : 16|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_TempMotor : 0|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+
+BO_ 649 AMK_ActualValues2_INV3: 8 Vector__XXX
+ SG_ AMK_TempIGBT : 48|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_ErrorInfo : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ AMK_TempInverter : 16|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_TempMotor : 0|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+
+BO_ 650 AMK_ActualValues2_INV4: 8 Vector__XXX
+ SG_ AMK_TempIGBT : 48|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_ErrorInfo : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ AMK_TempInverter : 16|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+ SG_ AMK_TempMotor : 0|16@1- (1,0) [-32768|32767] "0.1°C" Vector__XXX
+
+BO_ 388 AMK_Setpoints1_INV1: 8 Vector__XXX
+ SG_ AMK_TorqueLimitNegativ : 48|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TorqueLimitPositiv : 32|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TargetVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bReserve2 : 12|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ AMK_bErrorReset : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bEnable : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 389 AMK_Setpoints1_INV2: 8 Vector__XXX
+ SG_ AMK_TorqueLimitNegativ : 48|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TorqueLimitPositiv : 32|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TargetVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bReserve2 : 12|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ AMK_bErrorReset : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bEnable : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 392 AMK_Setpoints1_INV3: 8 Vector__XXX
+ SG_ AMK_TorqueLimitNegativ : 48|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TorqueLimitPositiv : 32|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TargetVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bReserve2 : 12|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ AMK_bErrorReset : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bEnable : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 393 AMK_Setpoints1_INV4: 8 Vector__XXX
+ SG_ AMK_TorqueLimitNegativ : 48|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TorqueLimitPositiv : 32|16@1- (1,0) [-32768|32767] "0.1% Mn" Vector__XXX
+ SG_ AMK_TargetVelocity : 16|16@1- (1,0) [-32768|32767] "rpm" Vector__XXX
+ SG_ AMK_bReserve2 : 12|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ AMK_bErrorReset : 11|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bEnable : 10|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bDcOn : 9|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bInverterOn : 8|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AMK_bReserve : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+
+
+ VAL_ 643 AMK_bDerating 0 "Derating (torque limitation active),1" ;
+ VAL_ 643 AMK_bInverterOn 0 "Controller enable level,1" ;
+ VAL_ 643 AMK_bQuitInverterOn 0 "Controller enable acknowledgment,1" ;
+ VAL_ 643 AMK_bDcOn 0 "HV activation level,1" ;
+ VAL_ 643 AMK_bQuitDcOn 0 "HV activation acknowledgment,1" ;
+ VAL_ 643 AMK_bWarn 2 "Warning,1" ;
+ VAL_ 643 AMK_bError 0 "Error,1" ;
+ VAL_ 643 AMK_bSystemReady 0 "a,0" ;
+ VAL_ 643 AMK_bReserve 1 "Reserved,0" ;
+ VAL_ 644 AMK_bDerating 0 "Derating (torque limitation active),1" ;
+ VAL_ 644 AMK_bInverterOn 0 "Controller enable level,1" ;
+ VAL_ 644 AMK_bQuitInverterOn 0 "Controller enable acknowledgment,1" ;
+ VAL_ 644 AMK_bDcOn 0 "HV activation level,1" ;
+ VAL_ 644 AMK_bQuitDcOn 0 "HV activation acknowledgment,1" ;
+ VAL_ 644 AMK_bWarn 2 "Warning,1" ;
+ VAL_ 644 AMK_bError 0 "Error,1" ;
+ VAL_ 644 AMK_bSystemReady 0 "a,0" ;
+ VAL_ 644 AMK_bReserve 1 "Reserved,0" ;
+ VAL_ 647 AMK_bDerating 0 "Derating (torque limitation active),1" ;
+ VAL_ 647 AMK_bInverterOn 0 "Controller enable level,1" ;
+ VAL_ 647 AMK_bQuitInverterOn 0 "Controller enable acknowledgment,1" ;
+ VAL_ 647 AMK_bDcOn 0 "HV activation level,1" ;
+ VAL_ 647 AMK_bQuitDcOn 0 "HV activation acknowledgment,1" ;
+ VAL_ 647 AMK_bWarn 2 "Warning,1" ;
+ VAL_ 647 AMK_bError 0 "Error,1" ;
+ VAL_ 647 AMK_bSystemReady 0 "a,0" ;
+ VAL_ 647 AMK_bReserve 1 "Reserved,0" ;
+ VAL_ 648 AMK_bDerating 0 "Derating (torque limitation active),1" ;
+ VAL_ 648 AMK_bInverterOn 0 "Controller enable level,1" ;
+ VAL_ 648 AMK_bQuitInverterOn 0 "Controller enable acknowledgment,1" ;
+ VAL_ 648 AMK_bDcOn 0 "HV activation level,1" ;
+ VAL_ 648 AMK_bQuitDcOn 0 "HV activation acknowledgment,1" ;
+ VAL_ 648 AMK_bWarn 2 "Warning,1" ;
+ VAL_ 648 AMK_bError 0 "Error,1" ;
+ VAL_ 648 AMK_bSystemReady 0 "a,0" ;
+ VAL_ 648 AMK_bReserve 1 "Reserved,0" ;
+ VAL_ 388 AMK_TorqueLimitNegativ 0 "Negative torque limit,0" ;
+ VAL_ 388 AMK_TorqueLimitPositiv 0 "Positive torque limit,0" ;
+ VAL_ 388 AMK_TargetVelocity 0 "Speed setpoint,0" ;
+ VAL_ 388 AMK_bReserve2 0 "Reserved,0" ;
+ VAL_ 388 AMK_bErrorReset 0 "Remove error,0" ;
+ VAL_ 388 AMK_bEnable 1 "Driver enable,1" ;
+ VAL_ 388 AMK_bDcOn 0 "HV activation,1" ;
+ VAL_ 388 AMK_bInverterOn 1 "Controller enable,1" ;
+ VAL_ 388 AMK_bReserve 1 "Reserved,0" ;
+ VAL_ 389 AMK_TorqueLimitNegativ 0 "Negative torque limit,0" ;
+ VAL_ 389 AMK_TorqueLimitPositiv 0 "Positive torque limit,0" ;
+ VAL_ 389 AMK_TargetVelocity 0 "Speed setpoint,0" ;
+ VAL_ 389 AMK_bReserve2 0 "Reserved,0" ;
+ VAL_ 389 AMK_bErrorReset 0 "Remove error,0" ;
+ VAL_ 389 AMK_bEnable 1 "Driver enable,1" ;
+ VAL_ 389 AMK_bDcOn 0 "HV activation,1" ;
+ VAL_ 389 AMK_bInverterOn 1 "Controller enable,1" ;
+ VAL_ 389 AMK_bReserve 1 "Reserved,0" ;
+ VAL_ 392 AMK_TorqueLimitNegativ 0 "Negative torque limit,0" ;
+ VAL_ 392 AMK_TorqueLimitPositiv 0 "Positive torque limit,0" ;
+ VAL_ 392 AMK_TargetVelocity 0 "Speed setpoint,0" ;
+ VAL_ 392 AMK_bReserve2 0 "Reserved,0" ;
+ VAL_ 392 AMK_bErrorReset 0 "Remove error,0" ;
+ VAL_ 392 AMK_bEnable 1 "Driver enable,1" ;
+ VAL_ 392 AMK_bDcOn 0 "HV activation,1" ;
+ VAL_ 392 AMK_bInverterOn 1 "Controller enable,1" ;
+ VAL_ 392 AMK_bReserve 1 "Reserved,0" ;
+ VAL_ 393 AMK_TorqueLimitNegativ 0 "Negative torque limit,0" ;
+ VAL_ 393 AMK_TorqueLimitPositiv 0 "Positive torque limit,0" ;
+ VAL_ 393 AMK_TargetVelocity 0 "Speed setpoint,0" ;
+ VAL_ 393 AMK_bReserve2 0 "Reserved,0" ;
+ VAL_ 393 AMK_bErrorReset 0 "Remove error,0" ;
+ VAL_ 393 AMK_bEnable 1 "Driver enable,1" ;
+ VAL_ 393 AMK_bDcOn 0 "HV activation,1" ;
+ VAL_ 393 AMK_bInverterOn 1 "Controller enable,1" ;
+ VAL_ 393 AMK_bReserve 1 "Reserved,0" ;
+

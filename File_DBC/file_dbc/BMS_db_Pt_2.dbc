@@ -1,0 +1,179 @@
+VERSION ""
+
+
+BS_:
+
+BU_:
+
+
+BO_ 344 BMS_VCELLS_SLV5_GRP1: 8 Vector__XXX
+ SG_ BMS_VCelll4 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll3 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll2 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll1 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 345 BMS_VCELLS_SLV5_GRP2: 8 Vector__XXX
+ SG_ BMS_VCelll8 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll7 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll6 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll5 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 352 BMS_VCELLS_SLV5_GRP3: 8 Vector__XXX
+ SG_ BMS_VCelll5 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll11 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll10 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll9 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 353 BMS_TCELLS_SLV5_GRP1: 8 Vector__XXX
+ SG_ BMS_TCelll4 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll3 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll2 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll1 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 354 BMS_TCELLS_SLV5_GRP2: 8 Vector__XXX
+ SG_ BMS_TCelll8 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll7 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll6 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll5 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 355 BMS_TCELLS_SLV5_GRP3: 8 Vector__XXX
+ SG_ BMS_TCelll12 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll11 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll10 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll9 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 356 BMS_TCELLS_SLV5_GRP4: 8 Vector__XXX
+ SG_ BMS_TCelll16 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll15 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll14 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll13 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 357 BMS_VCELLS_SLV6_GRP1: 8 Vector__XXX
+ SG_ BMS_VCelll4 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll3 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll2 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll1 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 358 BMS_VCELLS_SLV6_GRP2: 8 Vector__XXX
+ SG_ BMS_VCelll8 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll7 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll6 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll5 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 359 BMS_VCELLS_SLV6_GRP3: 8 Vector__XXX
+ SG_ BMS_VCelll12 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll11 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll10 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll9 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 360 BMS_TCELLS_SLV6_GRP1: 8 Vector__XXX
+ SG_ BMS_TCelll4 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll3 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll2 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll1 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 361 BMS_TCELLS_SLV6_GRP2: 8 Vector__XXX
+ SG_ BMS_TCelll8 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll7 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll6 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll5 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 368 BMS_TCELLS_SLV6_GRP3: 8 Vector__XXX
+ SG_ BMS_TCelll12 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll91 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll10 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll9 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 369 BMS_TCELLS_SLV6_GRP4: 8 Vector__XXX
+ SG_ BMS_TCelll16 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll15 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll14 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll13 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 370 BMS_VCELLS_SLV7_GRP1: 8 Vector__XXX
+ SG_ BMS_VCelll4 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll3 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll2 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll1 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 371 BMS_VCELLS_SLV7_GRP2: 8 Vector__XXX
+ SG_ BMS_VCelll8 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll7 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll6 : 23|16@0+ (1,0) [0|65535] "V" Vector__XXX
+ SG_ BMS_VCelll5 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 372 BMS_VCELLS_SLV7_GRP3: 8 Vector__XXX
+ SG_ BMS_VCelll12 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll11 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll10 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll9 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 373 BMS_TCELLS_SLV7_GRP1: 8 Vector__XXX
+ SG_ BMS_TCelll4 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCell3 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll2 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll1 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 374 BMS_TCELLS_SLV7_GRP2: 8 Vector__XXX
+ SG_ BMS_TCelll8 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll7 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll6 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll5 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 375 BMS_TCELLS_SLV7_GRP3: 8 Vector__XXX
+ SG_ BMS_TCelll12 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll11 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll10 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll9 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 376 BMS_TCELLS_SLV7_GRP4: 8 Vector__XXX
+ SG_ BMS_TCelll16 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll15 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll14 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll13 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 377 BMS_VCELLS_SLV8_GRP1: 8 Vector__XXX
+ SG_ BMS_VCelll4 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll3 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll2 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll1 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 384 BMS_VCELLS_SLV8_GRP2: 8 Vector__XXX
+ SG_ BMS_VCelll8 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll7 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll6 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll5 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 385 BMS_VCELLS_SLV8_GRP3: 8 Vector__XXX
+ SG_ BMS_VCelll12 : 55|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll11 : 39|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll10 : 23|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+ SG_ BMS_VCelll9 : 7|16@0+ (0.001,0) [0|65.535] "V" Vector__XXX
+
+BO_ 386 BMS_TCELLS_SLV8_GRP1: 8 Vector__XXX
+ SG_ BMS_TCelll4 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll3 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll2 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll1 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 387 BMS_TCELLS_SLV8_GRP2: 8 Vector__XXX
+ SG_ BMS_TCelll8 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll7 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll6 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll5 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 388 BMS_TCELLS_SLV8_GRP3: 8 Vector__XXX
+ SG_ BMS_TCelll12 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll11 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll10 : 23|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll9 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+BO_ 389 BMS_TCELLS_SLV8_GRP4: 8 Vector__XXX
+ SG_ BMS_TCelll16 : 55|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll15 : 39|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+ SG_ BMS_TCelll14 : 23|16@0+ (0.01,0) [0|655.35] "°" Vector__XXX
+ SG_ BMS_TCelll13 : 7|16@0+ (0.01,0) [0|655.35] "°C" Vector__XXX
+
+
+
+
