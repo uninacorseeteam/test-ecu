@@ -1,3 +1,2 @@
-config load ".\matlab test ecu.ioc"
-config saveext ".\matlab test ecu.ioc"
-exit wait
+disable project generate true
+config load ".\..\..\test\matlab test ecu_6.0.1.ioc"
